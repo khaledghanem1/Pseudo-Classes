@@ -1,0 +1,51 @@
+.one{
+    background-color: yellow;
+}
+.one:active{
+   font-size: 65px;
+}
+.one:hover{
+    color: pink;
+}
+.one:focus{
+    font-weight: bold;
+}
+
+.two{
+    background-color: green;
+}
+.two:active{
+    font-size: 44px;
+ }
+ .two:hover{
+     color: blue;
+ }
+ .two:focus{
+     padding: 24px;
+ }
+#three{
+    background-color: rgb(209, 132, 132);
+
+}
+#three:active{
+    font-size: 44px;
+ }
+ #three:hover{
+     margin-top: 26px;
+ }
+#three:focus{
+     padding: 36px;
+ }
+#four{
+    background-color: tomato;
+
+}
+#four:active{
+    font-size: 44px;
+ }
+ #four:hover{
+     margin-top: 26px;
+ }
+#four:visited{
+     color: red;
+ }
